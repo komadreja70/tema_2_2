@@ -62,3 +62,5 @@ El resultat és el que s'adjunta al fitxer validator_w3_org.pdf
 * https://www.markdowntutorial.com/
 * http://www.colourlovers.com
 * http://htmlcolorcodes.com/color-picker/
+* http://jigsaw.w3.org/css-validator/
+* http://validator.w3.org
