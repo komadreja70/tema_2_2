@@ -15,7 +15,7 @@
 	link active  #FFFFFF
 */
 html {
-	background: url("../img/fons.jpg");
+	background: url("../img/fons.jpg") no-repeat center center fixed;
 	background-size: cover;
 }
 
