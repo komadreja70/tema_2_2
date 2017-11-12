@@ -4,8 +4,8 @@ Tema 2 tasca número 2
 
 ----
 ## Tasques prèvies amb les imatges
-Hem editat el fitxer logo.png per tal de fer-lo transparent ja que disposarem d'una imiatge de fons a la págins web. Per adjustar tamanys i fer el fons transparent hem utilitzat l'eina web de https://pixelr.com/editor/
-Hem utilitzat le imatge fons.jpg de la nostra propietat per fer el fons de la página.
+* Hem editat el fitxer logo.png per tal de fer-lo transparent ja que disposarem d'una imatge de fons a la págins web. Per adjustar tamanys i fer el fons transparent hem utilitzat l'eina web de https://pixelr.com/editor/
+* Hem utilitzat le imatge fons.jpg de la nostra propietat per fer el fons de la página.
 
 ----
 ## Creació de paleta de colors.
