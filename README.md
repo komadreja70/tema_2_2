@@ -35,7 +35,8 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 * Carpeta img amb totes les imatges del projecte
 * Carpeta css amb el fitxer estil.css amb les definicions d'estil de la pàgina web
 * index.html
-* 
+* validador_css.pdf
+* validador_html.pdf
 
 ----
 ## Ús de Rawgit per veure html de GitHub
@@ -52,10 +53,16 @@ L'adreça de rawgit és.
 
 
 ----
-## Validació del codi html.
+## Validació del codi html
 Hem validat el document index.html amb l'eina web de  http://validator.w3.org
 Triam l'opció de validate by direct input i enganxam el codi de la nostra tasca index.html.
-El resultat és el que s'adjunta al fitxer validator_w3_org.pdf
+El resultat és el que s'adjunta al fitxer validador_html.pdf
+
+----
+## Validació del codi css
+Hem validat el document index.html amb l'eina web de  http://jigsaw.w3.org/css-validator/
+Triam l'opció de validate per url i enganxam l'enllaç de rawgit https://rawgit.com/komadreja70/tema2_2/master/index.html
+El resultat és el que s'adjunta al fitxer validador_css.pdf
 
 ----
 ## changelog
