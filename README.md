@@ -8,10 +8,16 @@ Tema 2 tasca número 2
 * Hem utilitzat le imatge fons.jpg de la nostra propietat per fer el fons de la página.
 
 ----
-## Creació de paleta de colors.
+## Tasques realitzades.
 
-* Hem utilitzat el programari web de http://www.colourlovers.com/palette/4536406/Filiblue i hem creat la paleta de colros filiblue per utilitzar-la a la pàgina nostra. Al començament del fitxer estil.css hi ha la relació i descripció dels colors.
-* Ens hem ajudat de la página http://htmlcolorcodes.com/color-picker/ per agafar els colors més adequats.
+* Paleta de colors. Hem utilitzat el programari web de http://www.colourlovers.com/palette/4536406/Filiblue i hem creat la paleta de colros filiblue per utilitzar-la a la pàgina nostra. Al començament del fitxer estil.css hi ha la relació i descripció dels colors.
+
+Ens hem ajudat de la página http://htmlcolorcodes.com/color-picker/ per agafar els colors més adequats.
+* Rètols informatius amb color de fons. Hem fet que els h1 i h2 fossin transparents i la resta amb color de fons.
+* Les taules que contenen imatges no tenen alternància de colors i la taula de de disponibiliat i descomptes sí que té alternància de colors.
+* Els enllaços són color diferent al que hi ha per defecte. Hem diferenciat colors entre actiu, visitat, hover i enllaç per defecte.
+* Hem posat d'imatge de fons el fitxer fons.jpg
+* Hem posat per defecte tot el text amb la font Arial.
 
 ----
 ## Utilització de tinypng per comprimir i optimitzar les imatges.
