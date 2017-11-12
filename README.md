@@ -1,6 +1,6 @@
 # tema2_2 readme.md
 Tema 2 tasca número 2
-> Introducció al CSS. Enllaç de rawgit  https://rawgit.com/komadreja70/tema2_2/master/index.html
+> Introducció al CSS. Enllaç de rawgit  https://rawgit.com/komadreja70/tema_2_2/master/index.html
 
 ----
 ## Tasques prèvies amb les imatges
@@ -49,7 +49,7 @@ Hem creat un repositori dins GitHub que es diu tema2_1 i hem pujat els fitxers s
 
 L'adreça de rawgit és.
 
-     https://rawgit.com/komadreja70/tema2_2/master/index.html
+     https://rawgit.com/komadreja70/tema_2_2/master/index.html
 
 
 ----
