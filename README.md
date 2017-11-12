@@ -12,7 +12,7 @@ Tema 2 tasca número 2
 
 * Paleta de colors. Hem utilitzat el programari web de http://www.colourlovers.com/palette/4536406/Filiblue i hem creat la paleta de colros filiblue per utilitzar-la a la pàgina nostra. Al començament del fitxer estil.css hi ha la relació i descripció dels colors.
 
-Ens hem ajudat de la página http://htmlcolorcodes.com/color-picker/ per agafar els colors més adequats.
+* Ens hem ajudat de la página http://htmlcolorcodes.com/color-picker/ per agafar els colors més adequats.
 * Rètols informatius amb color de fons. Hem fet que els h1 i h2 fossin transparents i la resta amb color de fons.
 * Les taules que contenen imatges no tenen alternància de colors i la taula de de disponibiliat i descomptes sí que té alternància de colors.
 * Els enllaços són color diferent al que hi ha per defecte. Hem diferenciat colors entre actiu, visitat, hover i enllaç per defecte.
