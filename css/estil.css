@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+/* paleta de colors
+
+	#B74972 - #E5A30A - #D5D5D5 - #6D7993 - #53A1BC - #3B8686
+
+ 	h1,h2   #B74972
+	h2,h3,h4,h5,h6 #E5A30A i background #D5D5D5
+	table border #6D7993
+	table header #D5D5D5
+	table zebra #53A1BC i #3B8686
+	link #FFFFFF
+	link visited #E5A30A 
+	link hover   #53A1BC
+	link active  #FFFFFF
+*/
+html {
+	background: url("../img/fons.jpg");
+	background-size: cover;
+}
+
+body { 
+  color: black; 
+  font-family: Arial; 
+  text-align: justify; 
+}
+
+header {
+		text-align: center; 
+		vertical-align: middle;
+		}
+
+h1,h2{
+	 color: #B74972;
+	 text-align: center;
+ }	
+
+h3,h4,h5,h6 {
+	 color: #E5A30A;
+	 text-align: center;
+	 font-size:150%;
+	 background-color:#D5D5D5;
+	padding:1%;
+ }	
+ 
+p {
+	color:#FFFFFF;
+	font-size:150%;
+	}
+	
+table{	
+	margin: auto;
+	border: 2px solid #6D7993;
+    text-align: center;
+	}
+
+th{
+		height: 50px;
+		background-color:#D5D5D5;
+	}
+.reixeta {
+			background-color: #53A1BC;
+			font-size: 120%;
+		}	
+.reixeta tr:nth-child(even){background-color: #3B8686}
+
+li{
+    list-style-position: inside;
+}
+				
+ul {
+	position: relative;
+	left:40%;
+	list-style-type: none;
+	text-align:left;
+	font-size:120%
+	}
+				
+footer {
+		text-align: center;
+	}			
+
+#filifooter {font-size:100%}
+
+a:link    {color:#FFFFFF; background-color:transparent; text-decoration:none}
+a:visited {color:#E5A30A; background-color:transparent; text-decoration:none}
+a:hover   {color:#53A1BC; background-color:transparent; text-decoration:none}
+a:active  {color:#FFFFFF; background-color:transparent; text-decoration:underline}
