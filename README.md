@@ -1,4 +1,4 @@
-# tema2_2 readme.md
+# tema_2_2 readme.md
 Tema 2 tasca número 2
 > Introducció al CSS. Enllaç de rawgit  https://rawgit.com/komadreja70/tema_2_2/master/index.html
 
