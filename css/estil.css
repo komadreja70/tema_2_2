@@ -13,13 +13,15 @@
 	link visited #E5A30A 
 	link hover   #53A1BC
 	link active  #FFFFFF
-*/
+
 html {
 	background: url("../img/fons.jpg") no-repeat center center fixed;
 	background-size: cover;
 }
-
+*/
 body { 
+  background: url("../img/fons.jpg") no-repeat center center fixed;
+  background-size: cover;
   color: black; 
   font-family: Arial; 
   text-align: justify; 
